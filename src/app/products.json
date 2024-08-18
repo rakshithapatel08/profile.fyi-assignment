@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "image": "1.png",
+      "name": "Cadbury Dairy Milk Silk",
+      "price": "$5.99",
+      "description": "A rich and creamy chocolate experience with every bite.",
+      "col":2,
+      "row":1,
+      "bg":"#7b5298"
+    },
+    {
+      "id": 2,
+      "image": "2.png",
+      "name": "Cadbury Celebrations Gift Pack",
+      "price": "$14.99",
+      "description": "A perfect assortment of Cadbury chocolates for special occasions.",
+      "col":3,
+      "row":1,
+      "bg":"#be95be"
+    },
+    {
+      "id": 3,
+      "image": "3.png",
+      "name": "Cadbury Deluxe Chocolate Gift Hamper",
+      "price": "$39.99",
+      "description": "An extravagant collection of Cadbury's finest chocolates.",
+      "col":4,
+      "row":1,
+      "bg":"#d5b8ce"
+    },
+    {
+      "id": 4,
+      "image": "4.png",
+      "name": "Cadbury Dairy Milk Mega Pack",
+      "price": "$25.99",
+      "description": "A mega pack of 12 Cadbury Dairy Milk bars for true chocolate lovers.",
+      "col":4,
+      "row":1,
+      "bg":"#d5b8ce"
+    },
+    {
+      "id": 5,
+      "image": "5.png",
+      "name": "Cadbury Dessert Collection",
+      "price": "$17.49",
+      "description": "An assortment of dessert-inspired chocolates, perfect for indulgence.",
+      "col":2,
+      "row":1,
+      "bg":"#7b5298"
+    },
+    {
+      "id": 6,
+      "image": "6.png",
+      "name": "Cadbury Heroes Tub",
+      "price": "$11.99",
+      "description": "A tub of mini versions of Cadbury's most loved chocolates.",
+      "col":3,
+      "row":1,
+      "bg":"#be95be"
+    },
+    {
+      "id": 7,
+      "image": "7.png",
+      "name": "Cadbury Favourites Mix",
+      "price": "$13.99",
+      "description": "A mix of Cadbury's classic and beloved chocolate varieties.",
+      "col":3,
+      "row":1,
+      "bg":"#be95be"
+    },
+    {
+      "id": 8,
+      "image": "8.png",
+      "name": "Cadbury Premium Collection Box",
+      "price": "$29.99",
+      "description": "A luxurious collection of premium Cadbury chocolates.",
+      "col":4,
+      "row":1,
+      "bg":"#d5b8ce"
+    },
+    {
+      "id": 9,
+      "image": "9.png",
+      "name": "Cadbury Chocolate Biscuit Selection",
+      "price": "$9.99",
+      "description": "A selection of chocolate-covered biscuits, perfect for tea time.",
+      "col":2,
+      "row":1,
+      "bg":"#7b5298"
+    },
+    {
+      "id": 10,
+      "image": "10.png",
+      "name": "Cadbury Dairy Milk Nuts & Raisins",
+      "price": "$6.99",
+      "description": "Smooth Dairy Milk chocolate with a generous mix of nuts and raisins.",
+      "col":2,
+      "row":1,
+      "bg":"#7b5298"
+    },
+    {
+      "id": 11,
+      "image": "11.png",
+      "name": "Cadbury Dairy Milk Roasted Almond Selection",
+      "price": "$7.99",
+      "description": "Decadent Dairy Milk chocolate filled with rich almonds.",
+      "col":3,
+      "row":1,
+      "bg":"#be95be"
+    },
+    {
+      "id": 12,
+      "image": "12.png",
+      "name": "Cadbury Pictureframe Box",
+      "price": "$4.99",
+      "description": "A creamy and delicious chocolate for a luxurious treat to your loved ones.",
+      "col":4,
+      "row":1,
+      "bg":"#d5b8ce"
+    }
+    
+  ]  
